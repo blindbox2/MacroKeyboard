@@ -1,0 +1,3 @@
+brightness - 10: b - 10
+brightness + 10: b + 10
+Toggle between brightness 0 and brightness 100: t b 0 t b 100
